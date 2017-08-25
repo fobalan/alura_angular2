@@ -1,0 +1,13 @@
+.sombra {
+    box-shadow: 2px 2px 15px;
+}
+
+.destaque:hover{
+
+    transition: 0.5s;
+    transform: scale(1.15)
+}
+
+.destaque{
+    transition: all 1s;
+}
